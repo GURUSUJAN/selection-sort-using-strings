@@ -27,9 +27,6 @@ floppy true soap paper flower
 floppy flower soap paper true
 floppy flower paper soap true
 floppy flower paper soap true
-Contest ends in 14 hours
-Submissions: 13
-Max Score: 5
 Difficulty: Medium
 Rate This Challenge:
 
